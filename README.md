@@ -6,6 +6,7 @@ Deep Learning project to detect house boundaries in Paksitan, using Solaris and 
   <img src="data/img_resized_17.png" width="350">
 </p>
 
+### output
 
 <p align="center">
   <img src="data/img_resized_17_infer.png" width="350">
@@ -16,6 +17,7 @@ Deep Learning project to detect house boundaries in Paksitan, using Solaris and 
   <img src="data/img_resized_18.png" width="350" >
 </p>
 
+### output
 
 <p align="center">
   <img src="data/img_resized_18_infer.png" >
@@ -29,6 +31,8 @@ Deep Learning project to detect house boundaries in Paksitan, using Solaris and 
   <img src="data/block_30.png" width="350">
 </p>
 
+### output
+
 <p align="center">
   <img src="data/block_30_infer.png" width="350">
 </p>
@@ -38,6 +42,8 @@ Deep Learning project to detect house boundaries in Paksitan, using Solaris and 
 <p align="center">
   <img src="data/block_32.png" width="350" >
 </p>
+
+### output
 
 <p align="center">
   <img src="data/block_32_infer.png" width="350">
