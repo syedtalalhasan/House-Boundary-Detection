@@ -28,7 +28,7 @@ Deep Learning project to detect house boundaries in Paksitan, using Solaris and 
 ### However for images that are taken from lower altitutdes and have lower resolution with large boundaries, the model fails to recognize house boundaries. Most data in Pakistan is simmilar to these examples, where results are not accurate.
 
 
-<img src="data/block_30.png" width="350">
+<img src="data/block_30_infer.png" width="350">
 
 
 ### output
