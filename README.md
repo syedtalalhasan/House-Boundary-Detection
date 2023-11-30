@@ -5,26 +5,26 @@
 
 
 <p align="center">
-  <img src="data/img_resized_18.png" width="350">
+  <img src="data/img_resized_7.png" width="350">
 </p>
 
 
+
+#### output
+
+<p align="center">
+  <img src="data/img_resized_7_infer.jpg" width="350">
+</p>
+
+#### Sample 2
+<p align="center">
+  <img src="data/img_resized_18.png" width="350" >
+</p>
 
 #### output
 
 <p align="center">
   <img src="data/img_resized_18_infer.jpg" width="350">
-</p>
-
-#### Sample 2
-<p align="center">
-  <img src="data/img_resized_2.png" width="350" >
-</p>
-
-#### output
-
-<p align="center">
-  <img src="data/img_resized_2.jpg" width="350">
 </p>
 
 
@@ -50,5 +50,5 @@
 #### output
 
 <p align="center">
-  <img src="data/block_32.jpg" width="350">
+  <img src="data/block_32_infer.jpg" width="350">
 </p>
